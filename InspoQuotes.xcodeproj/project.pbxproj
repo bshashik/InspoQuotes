@@ -103,7 +103,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1000;
 				LastUpgradeCheck = 1000;
-				ORGANIZATIONNAME = "London App Brewery";
+				ORGANIZATIONNAME = "Bharath Shashikumar";
 				TargetAttributes = {
 					AD18A83921285CAF00F6BF05 = {
 						CreatedOnToolsVersion = 10.0;
@@ -302,7 +302,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.londonappbrewery.InspoQuotes;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bshashik.ios.InspoQuotes;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -320,7 +320,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.londonappbrewery.InspoQuotes;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bshashik.ios.InspoQuotes;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
